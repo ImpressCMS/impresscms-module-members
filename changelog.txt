@@ -1,0 +1,28 @@
+-------------------------------------------------------
+
+Das Modul funktioniert mit ImpressCMS 1.x / XOOPS 2.0.x
+This Module works with ImpressCMS 1.x / XOOPS 2.0.x /  
+
+-------------------------------------------------------
+
+Check for an new Version:
+http://www.ImpressCMS.de
+
+
+Update: 02.09.2008 Version 2.03
+
+- Fehler beim Suchen behoben (thanks: Alfred)
+- Bug on the search fixed
+
+- changed: references to class/xoopsmodule.php to kernel/module.php (vaughan)
+
+
+
+Update: 05.01.2008 Version 2.02
+
+- Gruppensuchfunktion hinzugefügt (sato-san) (thanks: bkohl)
+- Group search function added
+
+
+
+Start: 30.03.2008 Version 2.01
